@@ -1,2 +1,2 @@
 # AmazonWebScrapingPJ
-This is an Amazon Web Scraping Project which uses Beautiful Soup to parse the HTML Document and scrape the required data from the Document.
+This is an Amazon web scraping project that utilizes the Beautiful Soup library to parse an HTML document and extract the desired data.
